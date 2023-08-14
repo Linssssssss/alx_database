@@ -18,3 +18,12 @@ A script that prints the full description of the table first_table from the data
 
 Task 6:
 A script that lists all rows of the table from the database in the mySQL server
+
+Task 7:
+A script that inserts a new row in the table in the MySQL server
+
+Task 8:
+A script that displays the number of records in the table of the database the mysql server
+
+Task 9:
+A script that creates a table in the databse in the my sql server and add multiple rows
