@@ -6,3 +6,6 @@ A script that creates the database hbtn_0c_0 in my MySQL server
 
 Task 2:
 A script that deletes the database htbn_0c_0 in my MySQL server
+
+Task 3:
+A script that lists all the tables of a database in your MySQL server
