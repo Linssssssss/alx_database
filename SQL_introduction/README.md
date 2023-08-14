@@ -9,3 +9,6 @@ A script that deletes the database htbn_0c_0 in my MySQL server
 
 Task 3:
 A script that lists all the tables of a database in your MySQL server
+
+Task 4:
+A script that creates a table called first_table in the current database in the MySQL server
