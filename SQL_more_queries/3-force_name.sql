@@ -1,6 +1,6 @@
 -- create_table_force_name.sql
 
-USE your_database_name; -- Replace with the actual database name
+USE hbtn_test_db_3; -- Use the correct database name here
 
 -- Create table if not exists
 CREATE TABLE IF NOT EXISTS force_name (
